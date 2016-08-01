@@ -1,0 +1,20 @@
+{
+ "contractPartner" :
+  {
+    "client" :
+    {
+      "code" : "RICH"
+    },
+    "version" :
+    {
+      "major" : 1,
+      "minor" : 0
+    }
+  },
+  "dataSource" :
+  {
+    "host" : "/home/j2/git-sourceCode/extraction.io-master/extraction.io/raw_files",
+    "csvOptions" : "{separator: '\n', encoding: 'utf8'}",
+    "delimiter" : "\t"
+  }
+}
